@@ -1,111 +1,111 @@
 [{
-    "marked_non_duplicate": "0",
-    "fileName": "ATB_20160104130101_lessthen5pcntfailednoemail_TC9.csv",
-    "FI": "BNS",
+    "m_n_d": "0",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2017-09-28 12:11:19.0",
-    "totalDuplicates": "8",
+    "totdo": "8",
     "id": "1126",
     "label": "2016-01-12",
-    "marked_duplicate": "5",
-    "total_in_dcd_engine": "50432"
+    "mrkd": "5",
+    "tdcde": "50432"
 }, {
-    "marked_non_duplicate": "0",
-    "fileName": "ATB_20160104130101_morethen5pcntfailedcreateemail_TC8.csv",
-    "FI": "BNS",
+    "m_n_d": "0",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2016-06-10 12:15:23",
-    "totalDuplicates": "2",
+    "totdo": "2",
     "id": "1125",
     "label": "2016-01-12",
-    "marked_duplicate": "0",
-    "total_in_dcd_engine": null
+    "mrkd": "0",
+    "tdcde": null
 }, {
-    "marked_non_duplicate": "0",
-    "fileName": "ATB_20160104130101_1000recordslessthen5pctfail_TC12.csv",
-    "FI": "BNS",
+    "m_n_d": "0",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2016-06-10 12:35:23",
-    "totalDuplicates": "998",
+    "totdo": "998",
     "id": "1129",
     "label": "2016-01-12",
-    "marked_duplicate": "0",
-    "total_in_dcd_engine": null
+    "mrkd": "0",
+    "tdcde": null
 }, {
-    "marked_non_duplicate": "0",
-    "fileName": "ATB_20160104130101_duplicateloadtwice_TC1.csv",
-    "FI": "BNS",
+    "m_n_d": "0",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2016-06-10 11:21:22",
-    "totalDuplicates": "4",
+    "totdo": "4",
     "id": "1118",
     "label": "2016-01-12",
-    "marked_duplicate": "0",
-    "total_in_dcd_engine": null
+    "mrkd": "0",
+    "tdcde": null
 }, {
-    "marked_non_duplicate": "0",
-    "fileName": "ATB_20160518120101_DCD.csv",
-    "FI": "ATB",
+    "m_n_d": "0",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2016-06-13 11:21:22",
-    "totalDuplicates": "17",
+    "totdo": "17",
     "id": "9999",
     "label": "2016-05-18",
-    "marked_duplicate": "0",
-    "total_in_dcd_engine": null
+    "mrkd": "0",
+    "tdcde": null
 }, {
-    "marked_non_duplicate": "0",
-    "fileName": "ATB_Testfilename_TC4.csv",
-    "FI": "BNS",
+    "m_n_d": "0",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2016-06-10 11:52:27",
-    "totalDuplicates": "4",
+    "totdo": "4",
     "id": "1122",
     "label": "2016-01-12",
-    "marked_duplicate": "0",
-    "total_in_dcd_engine": null
+    "mrkd": "0",
+    "tdcde": null
 }, {
-    "marked_non_duplicate": "0",
-    "fileName": "ATB_20160104130101_mixedvalues_TC11.csv",
-    "FI": "RBC",
+    "m_n_d": "0",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2016-06-10 12:31:28",
-    "totalDuplicates": "4",
+    "totdo": "4",
     "id": "1128",
     "label": "2016-01-01",
-    "marked_duplicate": "0",
-    "total_in_dcd_engine": null
+    "mrkd": "0",
+    "tdcde": null
 }, {
-    "marked_non_duplicate": "0",
-    "fileName": "ATB_20160105130101_DCD.csv",
-    "FI": "259",
+    "m_n_d": "0",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2016-05-06 16:21:55",
-    "totalDuplicates": "2419",
+    "totdo": "2419",
     "id": "4",
     "label": "2014-10-17",
-    "marked_duplicate": "0",
-    "total_in_dcd_engine": null
+    "mrkd": "0",
+    "tdcde": null
 }, {
-    "marked_non_duplicate": "3",
-    "fileName": "ATB_20160104120101_DCD.csv",
-    "FI": "259",
+    "m_n_d": "3",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2016-04-21 15:54:32",
-    "totalDuplicates": "6774",
+    "totdo": "6774",
     "id": "1",
     "label": "2011-05-04",
-    "marked_duplicate": "2",
-    "total_in_dcd_engine": null
+    "mrkd": "2",
+    "tdcde": null
 }, {
-    "marked_non_duplicate": "0",
-    "fileName": "ATB_20160104130101_goodfile_TC3.csv",
-    "FI": "BNS",
+    "m_n_d": "0",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2016-06-10 11:47:20",
-    "totalDuplicates": "4",
+    "totdo": "4",
     "id": "1121",
     "label": "2016-01-12",
-    "marked_duplicate": "0",
-    "total_in_dcd_engine": null
+    "mrkd": "0",
+    "tdcde": null
 }, {
-    "marked_non_duplicate": "0",
-    "fileName": "ATB_20160104130101_morethen1000records_TC10.csv",
-    "FI": "BNS",
+    "m_n_d": "0",
+    "fileName": "some_file.csv",
+    "IF": "NSM",
     "createTime": "2016-06-10 12:25:41",
-    "totalDuplicates": "1150",
+    "totdo": "1150",
     "id": "1127",
     "label": "2016-01-12",
-    "marked_duplicate": "0",
-    "total_in_dcd_engine": null
+    "mrkd": "0",
+    "tdcde": null
 }]
